@@ -246,7 +246,7 @@ Label(master, text='The most secure bank system!',font=('Arial', 12)).grid(row=1
 Label(master, image=img).grid(row=2, sticky=N, pady=15)
 
 #Buttons part
-Button(master, text='Register', fg='darkgreen', command=register, font=('Calibri', 12), width=20).grid(row=0, sticky=E, column=1, padx=10)
-Button(master, text='Login', fg='darkgreen', command=login, font=('Calibri', 12), width=20).grid(row=1, sticky=E, column=1, padx=10, pady=10)
+Button(master, text='Register', fg='darkgreen', command=register, font=('Courier', 12), width=20).grid(row=0, sticky=E, column=1, padx=10)
+Button(master, text='Login', fg='darkgreen', command=login, font=('Courier', 12), width=20).grid(row=1, sticky=E, column=1, padx=10, pady=10)
 
 master.mainloop()
