@@ -1,2 +1,2 @@
 ># Banking system GUI with python 
-![My Image](Screenshot.jpg)
+![alt text](https://github.com/radini1/Bank_Sytesm_Python/blob/main/Bank-PO.png)
